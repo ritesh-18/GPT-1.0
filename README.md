@@ -1,3 +1,3 @@
-# React + Vite
+# GPT@1.0
 
-https://gpt-10-fawn.vercel.app/
+ link : https://gpt-10-fawn.vercel.app/
